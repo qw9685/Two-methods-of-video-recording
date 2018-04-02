@@ -1,0 +1,1666 @@
+2018-03-02 03:43:07 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7faeed60f9e0; archive(resolved)='<IDEArchive: 0x7faefca4b760>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team(resolved)='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7faeed60f9e0; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionProcessingPipelineContext: 0x7faee07e3c50; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionContext: 0x7faefbcdffb0; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionContext: 0x7faeeb917840; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionContext: 0x7faeed2725e0; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionContext: 0x7faefedb6490; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionContext: 0x7faefbe7d210; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionContext: 0x7faee07a3b20; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionContext: 0x7faeed4778e0; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='<IDEProvisioningBasicTeam 0x7faef12862e0: teamID: 3Z56Q5RW47, teamName: Yigo Space (Beijing) Science & Technology Co., Ltd.>'>
+	<IDEDistributionContext: 0x7faeeb982b60; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7faee8124ca0>', team='(null)'>
+	<IDEDistributionContext: 0x7faefdfc8db0; archive = '<IDEArchive: 0x7faefca4b760>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7faeed60f9e0>
+2018-03-02 03:43:07 +0000  Processing step: IDEDistributionCreateDestRootStep
+2018-03-02 03:43:07 +0000  Processing step: IDEDistributionCopyItemStep
+2018-03-02 03:43:07 +0000  Running /usr/bin/ditto '-V' '/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app'
+2018-03-02 03:43:07 +0000  >>> Copying /Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app 
+2018-03-02 03:43:07 +0000  copying file ./720.jpg ... 
+2018-03-02 03:43:07 +0000  54984 bytes for ./720.jpg
+2018-03-02 03:43:07 +0000  copying file ./_CodeSignature/CodeResources ... 
+2018-03-02 03:43:07 +0000  53592 bytes for ./_CodeSignature/CodeResources
+copying file ./AlertView.nib ... 
+3034 bytes for ./AlertView.nib
+copying file ./AppIcon29x29@2x.png ... 
+2018-03-02 03:43:07 +0000  20586 bytes for ./AppIcon29x29@2x.png
+copying file ./AppIcon29x29@3x.png ... 
+2018-03-02 03:43:07 +0000  23153 bytes for ./AppIcon29x29@3x.png
+copying file ./AppIcon40x40@2x.png ... 
+2018-03-02 03:43:07 +0000  22584 bytes for ./AppIcon40x40@2x.png
+2018-03-02 03:43:07 +0000  copying file ./AppIcon40x40@3x.png ... 
+2018-03-02 03:43:07 +0000  25530 bytes for ./AppIcon40x40@3x.png
+copying file ./AppIcon60x60@2x.png ... 
+25530 bytes for ./AppIcon60x60@2x.png
+copying file ./AppIcon60x60@3x.png ... 
+2018-03-02 03:43:07 +0000  30681 bytes for ./AppIcon60x60@3x.png
+copying file ./archived-expanded-entitlements.xcent ... 
+246 bytes for ./archived-expanded-entitlements.xcent
+copying file ./Assets.car ... 
+2018-03-02 03:43:08 +0000  30351216 bytes for ./Assets.car
+2018-03-02 03:43:08 +0000  copying file ./ATableViewCell.nib ... 
+2018-03-02 03:43:08 +0000  2631 bytes for ./ATableViewCell.nib
+2018-03-02 03:43:08 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-03-02 03:43:08 +0000  2257 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-03-02 03:43:08 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2018-03-02 03:43:08 +0000  1791 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2018-03-02 03:43:08 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2018-03-02 03:43:08 +0000  916 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./checkOrderStatusViewCell.nib ... 
+2018-03-02 03:43:08 +0000  4044 bytes for ./checkOrderStatusViewCell.nib
+copying file ./ContactusViewController.nib ... 
+2018-03-02 03:43:08 +0000  956 bytes for ./ContactusViewController.nib
+copying file ./embedded.mobileprovision ... 
+2018-03-02 03:43:08 +0000  13106 bytes for ./embedded.mobileprovision
+2018-03-02 03:43:08 +0000  copying file ./en.lproj/Localizable.strings ... 
+2018-03-02 03:43:08 +0000  22949 bytes for ./en.lproj/Localizable.strings
+copying file ./EquipmentTableViewCell.nib ... 
+2018-03-02 03:43:08 +0000  2404 bytes for ./EquipmentTableViewCell.nib
+2018-03-02 03:43:08 +0000  copying file ./Frameworks/libswiftAVFoundation.dylib ... 
+2018-03-02 03:43:08 +0000  504384 bytes for ./Frameworks/libswiftAVFoundation.dylib
+copying file ./Frameworks/libswiftCore.dylib ... 
+2018-03-02 03:43:09 +0000  21079584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreAudio.dylib ... 
+2018-03-02 03:43:09 +0000  353856 bytes for ./Frameworks/libswiftCoreAudio.dylib
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+208288 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+577744 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftCoreImage.dylib ... 
+208848 bytes for ./Frameworks/libswiftCoreImage.dylib
+copying file ./Frameworks/libswiftCoreMedia.dylib ... 
+253648 bytes for ./Frameworks/libswiftCoreMedia.dylib
+copying file ./Frameworks/libswiftDarwin.dylib ... 
+303056 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+1009248 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2018-03-02 03:43:09 +0000  8413280 bytes for ./Frameworks/libswiftFoundation.dylib
+copying file ./Frameworks/libswiftMetal.dylib ... 
+2018-03-02 03:43:09 +0000  251248 bytes for ./Frameworks/libswiftMetal.dylib
+2018-03-02 03:43:09 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+258928 bytes for ./Frameworks/libswiftObjectiveC.dylib
+copying file ./Frameworks/libswiftos.dylib ... 
+2018-03-02 03:43:09 +0000  248896 bytes for ./Frameworks/libswiftos.dylib
+copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+212208 bytes for ./Frameworks/libswiftQuartzCore.dylib
+copying file ./Frameworks/libswiftsimd.dylib ... 
+1361232 bytes for ./Frameworks/libswiftsimd.dylib
+copying file ./Frameworks/libswiftUIKit.dylib ... 
+2018-03-02 03:43:09 +0000  361488 bytes for ./Frameworks/libswiftUIKit.dylib
+copying file ./Frameworks/RestKit.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/RestKit.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/RestKit.framework/Info.plist ... 
+750 bytes for ./Frameworks/RestKit.framework/Info.plist
+copying file ./Frameworks/RestKit.framework/RestKit ... 
+1840880 bytes for ./Frameworks/RestKit.framework/RestKit
+copying file ./Frameworks/SpeechToTextV1.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/SpeechToTextV1.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/SpeechToTextV1.framework/Info.plist ... 
+762 bytes for ./Frameworks/SpeechToTextV1.framework/Info.plist
+copying file ./Frameworks/SpeechToTextV1.framework/SpeechToTextV1 ... 
+2018-03-02 03:43:09 +0000  9206384 bytes for ./Frameworks/SpeechToTextV1.framework/SpeechToTextV1
+2018-03-02 03:43:09 +0000  copying file ./goPlay ... 
+2018-03-02 03:43:09 +0000  8254208 bytes for ./goPlay
+copying file ./GoplayUpdateViewController.nib ... 
+5733 bytes for ./GoplayUpdateViewController.nib
+copying file ./Info.plist ... 
+4617 bytes for ./Info.plist
+copying file ./LaunchImage-568h@2x.png ... 
+235074 bytes for ./LaunchImage-568h@2x.png
+copying file ./LaunchImage-700-568h@2x.png ... 
+235074 bytes for ./LaunchImage-700-568h@2x.png
+copying file ./LaunchImage-700@2x.png ... 
+236188 bytes for ./LaunchImage-700@2x.png
+copying file ./LaunchImage-800-667h@2x.png ... 
+310501 bytes for ./LaunchImage-800-667h@2x.png
+copying file ./LaunchImage-800-Portrait-736h@3x.png ... 
+733539 bytes for ./LaunchImage-800-Portrait-736h@3x.png
+copying file ./LaunchImage.png ... 
+84921 bytes for ./LaunchImage.png
+copying file ./LKNotification.gif ... 
+409303 bytes for ./LKNotification.gif
+copying file ./LoadView.nib ... 
+3246 bytes for ./LoadView.nib
+copying file ./loginViewController.nib ... 
+4182 bytes for ./loginViewController.nib
+copying file ./MJRefresh.bundle/arrow@2x.png ... 
+1033 bytes for ./MJRefresh.bundle/arrow@2x.png
+copying file ./MJRefresh.bundle/en.lproj/Localizable.strings ... 
+1372 bytes for ./MJRefresh.bundle/en.lproj/Localizable.strings
+copying file ./MJRefresh.bundle/zh-Hans.lproj/Localizable.strings ... 
+1194 bytes for ./MJRefresh.bundle/zh-Hans.lproj/Localizable.strings
+copying file ./MJRefresh.bundle/zh-Hant.lproj/Localizable.strings ... 
+773 bytes for ./MJRefresh.bundle/zh-Hant.lproj/Localizable.strings
+copying file ./NetaddressList.plist ... 
+116 bytes for ./NetaddressList.plist
+copying file ./NewShowCollectionViewCell.nib ... 
+8463 bytes for ./NewShowCollectionViewCell.nib
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+copying file ./PlugIns/NotificationService.appex/_CodeSignature/CodeResources ... 
+2846 bytes for ./PlugIns/NotificationService.appex/_CodeSignature/CodeResources
+copying file ./PlugIns/NotificationService.appex/archived-expanded-entitlements.xcent ... 
+416 bytes for ./PlugIns/NotificationService.appex/archived-expanded-entitlements.xcent
+copying file ./PlugIns/NotificationService.appex/embedded.mobileprovision ... 
+12658 bytes for ./PlugIns/NotificationService.appex/embedded.mobileprovision
+copying file ./PlugIns/NotificationService.appex/Info.plist ... 
+930 bytes for ./PlugIns/NotificationService.appex/Info.plist
+copying file ./PlugIns/NotificationService.appex/NotificationService ... 
+78224 bytes for ./PlugIns/NotificationService.appex/NotificationService
+copying file ./PreviewAudioVC.nib ... 
+974 bytes for ./PreviewAudioVC.nib
+copying file ./PreviewViewController.nib ... 
+974 bytes for ./PreviewViewController.nib
+copying file ./ProgressView.nib ... 
+5814 bytes for ./ProgressView.nib
+copying file ./prooProgressView.nib ... 
+2684 bytes for ./prooProgressView.nib
+copying file ./README.txt ... 
+2001 bytes for ./README.txt
+copying file ./RecordingCell.nib ... 
+7153 bytes for ./RecordingCell.nib
+copying file ./RecordingVC.nib ... 
+6506 bytes for ./RecordingVC.nib
+copying file ./RegistViewController.nib ... 
+7608 bytes for ./RegistViewController.nib
+copying file ./SearchAlertView.nib ... 
+3847 bytes for ./SearchAlertView.nib
+copying file ./selectSexView.nib ... 
+4324 bytes for ./selectSexView.nib
+copying file ./slider-default-handle-highlighted.png ... 
+1057 bytes for ./slider-default-handle-highlighted.png
+copying file ./slider-default-handle-highlighted@2x.png ... 
+1907 bytes for ./slider-default-handle-highlighted@2x.png
+copying file ./slider-default-handle.png ... 
+3590 bytes for ./slider-default-handle.png
+copying file ./slider-default-handle@2x.png ... 
+4130 bytes for ./slider-default-handle@2x.png
+copying file ./tail_H1280x720.mp4 ... 
+418114 bytes for ./tail_H1280x720.mp4
+copying file ./tail_H1920x1080.mp4 ... 
+640492 bytes for ./tail_H1920x1080.mp4
+copying file ./tail_H640x480.mp4 ... 
+201481 bytes for ./tail_H640x480.mp4
+copying file ./tail_V1280x720.mp4 ... 
+443497 bytes for ./tail_V1280x720.mp4
+copying file ./tail_V1920x1080.mp4 ... 
+664018 bytes for ./tail_V1920x1080.mp4
+copying file ./tail_V640x480.mp4 ... 
+262701 bytes for ./tail_V640x480.mp4
+copying file ./T
+2018-03-02 03:43:10 +0000  akePhotoViewController.nib ... 
+7626 bytes for ./TakePhotoViewController.nib
+copying file ./UMSocialSDKPromptResources.bundle/en.lproj/UMSocialPromptLocalizable.strings ... 
+8304 bytes for ./UMSocialSDKPromptResources.bundle/en.lproj/UMSocialPromptLocalizable.strings
+copying file ./UMSocialSDKPromptResources.bundle/zh-Hans.lproj/UMSocialPromptLocalizable.strings ... 
+8304 bytes for ./UMSocialSDKPromptResources.bundle/zh-Hans.lproj/UMSocialPromptLocalizable.strings
+copying file ./UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png ... 
+134 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png
+copying file ./UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png ... 
+891 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png
+copying file ./UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png ... 
+500 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png
+copying file ./UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png ... 
+1624 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png
+copying file ./UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png ... 
+1562 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png
+copying file ./UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png ... 
+1771 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png
+copying file ./UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png ... 
+2062 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png
+copying file ./UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings ... 
+6503 bytes for ./UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png ... 
+1370 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png ... 
+4203 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dingding.png ... 
+1390 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dingding.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png ... 
+813 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dropbox.png ... 
+1692 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dropbox.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png ... 
+1211 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_evernote.png ... 
+1267 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_evernote.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png ... 
+1468 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebookmessenger.png ... 
+1749 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebookmessenger.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png ... 
+979 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_googleplus.png ... 
+2320 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_googleplus.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_instagram.png ... 
+1952 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/def
+2018-03-02 03:43:10 +0000  ault/umsocial_instagram.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png ... 
+1893 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png ... 
+1720 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png ... 
+1637 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png ... 
+2391 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png ... 
+1139 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png ... 
+1987 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pocket.png ... 
+1405 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pocket.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png ... 
+3505 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png ... 
+2083 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png ... 
+1529 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png ... 
+2581 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png ... 
+1127 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png ... 
+1943 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tim.png ... 
+2597 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tim.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png ... 
+1564 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png ... 
+1442 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_vkontakte.png ... 
+1867 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_vkontakte.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png ... 
+1628 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png ... 
+1179 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png ... 
+1506 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_whatsapp.png ... 
+1832 bytes for ./UMSocialSDKResources.bundle/UMSocialP
+2018-03-02 03:43:10 +0000  latformTheme/default/umsocial_whatsapp.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png ... 
+4145 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png ... 
+1833 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png ... 
+2199 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_youdaonote.png ... 
+1158 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_youdaonote.png
+copying file ./UMSocialSDKResources.bundle/UMSocialWaterMark/umsocial_defaultwatermark.png ... 
+3003 bytes for ./UMSocialSDKResources.bundle/UMSocialWaterMark/umsocial_defaultwatermark.png
+copying file ./UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings ... 
+6685 bytes for ./UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings
+copying file ./UpdateOpenWifiViewController.nib ... 
+5224 bytes for ./UpdateOpenWifiViewController.nib
+copying file ./UpdateView.nib ... 
+4903 bytes for ./UpdateView.nib
+copying file ./UploadTipVie.nib ... 
+4118 bytes for ./UploadTipVie.nib
+copying file ./WifiReminderView.nib ... 
+3398 bytes for ./WifiReminderView.nib
+copying file ./XFVideoPickerCell.nib ... 
+3319 bytes for ./XFVideoPickerCell.nib
+copying file ./YGCollectionHeaderView.nib ... 
+4212 bytes for ./YGCollectionHeaderView.nib
+copying file ./zh-Hans.lproj/Localizable.strings ... 
+2018-03-02 03:43:10 +0000  17184 bytes for ./zh-Hans.lproj/Localizable.strings
+copying file ./ZYInputAlertView.nib ... 
+2018-03-02 03:43:10 +0000  3819 bytes for ./ZYInputAlertView.nib
+copying file ./测试.txt ... 
+2018-03-02 03:43:10 +0000  18 bytes for ./测试.txt
+2018-03-02 03:43:10 +0000  /usr/bin/ditto exited with 0
+2018-03-02 03:43:10 +0000  Processing step: IDEDistributionEmbedProfileStep
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faefdf5c600 'com.ibm.watson.developer-cloud.RestKit' '<DVTFilePath:0x7faee6cc2a00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/RestKit.framework'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faeed11d910 'com.ibm.watson.developer-cloud.SpeechToTextV1' '<DVTFilePath:0x7faee10d52c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/SpeechToTextV1.framework'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faefcea59c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7faef9621870:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftAVFoundation.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faeed1bf5f0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faefeb31850:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCore.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faeed51f0f0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7faeed216b70:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreAudio.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faefc8c1470 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7faeebf418c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faee6b8d090 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faefaaca190:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faefcd945f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faee979bc00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreImage.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faeed357ff0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7faeeb9f6da0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreMedia.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faefdf1f970 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7faee2d8a1e0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDarwin.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faefdfd7cb0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faeec78adf0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDispatch.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faee8c0e770 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7faee96bc590:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftFoundation.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faee8d030d0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7faefbb1fdc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftMetal.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faedf77d310 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faee16f41c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faeed02bda0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7faee32328b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faeed405850 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7faee07e51b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftUIKit.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faee36ebad0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faee97f79a0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftos.dylib'>'>
+2018-03-02 03:43:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faee8068e00 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7faeebf8fb80:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftsimd.dylib'>'>
+2018-03-02 03:43:10 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2018-03-02 03:43:10 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-03-02 03:43:10 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2018-03-02 03:43:10 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root' '--json' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool-json-filepath-5jKjQE' '--compile-bitcode' '--output' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/IDEIPAProcessor.AppThinning.QrG' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms'
+2018-03-02 03:43:10 +0000  ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16]
+2018-03-02 03:43:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - minVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - sdkVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1602: warning: assigned but unused variable - sourceVersion
+2018-03-02 03:43:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1703: warning: shadowing outer local variable - node
+2018-03-02 03:43:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoFile
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoImage
+2018-03-02 03:43:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - flag
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - transformer
+2018-03-02 03:43:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2912: warning: assigned but unused variable - exc
+2018-03-02 03:43:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:738: warning: assigned but unused variable - output
+2018-03-02 03:43:10 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2018-03-02 03:43:10 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2018-03-02 03:43:10 +0000  OS X 10.12.6 16G29
+2018-03-02 03:43:10 +0000  ENV: {"PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "MallocNanoZone"=>"0", "TMPDIR"=>"/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/", "LOGNAME"=>"1gospace-macmini1", "XPC_FLAGS"=>"0x0", "HOME"=>"/Users/1gospace-macmini1", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.Bm4lxbLRgI/Render", "USER"=>"1gospace-macmini1", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.OpLawcftBf/Listeners", "XPC_SERVICE_NAME"=>"com.apple.dt.Xcode.392284", "SHELL"=>"/bin/bash", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x19:0x34"}
+ARGV: ["/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root", "--json", "/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool-json-filepath-5jKjQE", "--compile-bitcode", "--output", "/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/IDEIPAProcessor.AppThinning.QrG", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms"]
+2018-03-02 03:43:10 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-03-02 03:43:10 +0000  warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-03-02 03:43:10 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-03-02 03:43:10 +0000  Scanning IPA...
+2018-03-02 03:43:11 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature RestKit
+2018-03-02 03:43:11 +0000      /usr/bin/python exited with pid 12305 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:12 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist RestKit
+    /usr/bin/python exited with pid 12306 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+/usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) RestKit RestKit
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12307 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-02 03:43:12 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature SpeechToTextV1
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12321 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:12 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist SpeechToTextV1
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12322 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+/usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) SpeechToTextV1 SpeechToTextV1
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12323 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-02 03:43:12 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature NotificationService
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12363 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:12 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) archived-expanded-entitlements.xcent NotificationService
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12364 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:12 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) embedded.mobileprovision NotificationService
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12365 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:12 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist NotificationService
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12366 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:12 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) NotificationService NotificationService
+2018-03-02 03:43:12 +0000      /usr/bin/python exited with pid 12367 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 720.jpg goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12450 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12452 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AlertView.nib goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12454 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon29x29@2x.png goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12455 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon29x29@3x.png goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12457 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon40x40@2x.png goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12459 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon40x40@3x.png goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12461 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon60x60@2x.png goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12462 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon60x60@3x.png goPlay
+    /usr/bin/python exited with pid 12463 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+/usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) archived-expanded-entitlements.xcent goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12464 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Assets.car goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12465 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) ATableViewCell.nib goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12466 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Base.lproj goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12467 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) checkOrderStatusViewCell.nib goPlay
+    /usr/bin/python exited with pid 12468 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+/usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) ContactusViewController.nib goPlay
+    /usr/bin/python exited with pid 12469 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+/usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) embedded.mobileprovision goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12470 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+/usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) en.lproj goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12471 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) EquipmentTableViewCell.nib goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12472 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Frameworks goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12473 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-02 03:43:13 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) goPlay goPlay
+2018-03-02 03:43:13 +0000      /usr/bin/python exited with pid 12474 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-02 03:43:14 +0000  warning: Failed to resolve rpath for RestKit: Could not resolve @executable_path for @executable_path/Frameworks from RestKit
+2018-03-02 03:43:14 +0000  warning: Failed to resolve rpath for SpeechToTextV1: Could not resolve @executable_path for @executable_path/Frameworks from SpeechToTextV1
+2018-03-02 03:43:14 +0000  Complete LinkageGraph:
+    goPlay.app/goPlay arm64 ->
+        goPlay.app/Frameworks/SpeechToTextV1.framework/SpeechToTextV1 arm64
+        goPlay.app/Frameworks/RestKit.framework/RestKit arm64
+        goPlay.app/Frameworks/libswiftAVFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreImage.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreMedia.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftMetal.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib arm64
+        goPlay.app/Frameworks/libswiftUIKit.dylib arm64
+        goPlay.app/Frameworks/libswiftsimd.dylib arm64
+    goPlay.app/Frameworks/SpeechToTextV1.framework/SpeechToTextV1 arm64 ->
+        goPlay.app/Frameworks/libswiftAVFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreImage.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreMedia.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftMetal.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib arm64
+        goPlay.app/Frameworks/libswiftUIKit.dylib arm64
+        goPlay.app/Frameworks/libswiftsimd.dylib arm64
+    goPlay.app/Frameworks/libswiftAVFoundation.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCoreMedia.dylib arm64
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib arm64
+        goPlay.app/Frameworks/libswiftsimd.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib arm64
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+        goPlay.app/Frameworks/libswiftMetal.dylib arm64
+    goPlay.app/Frameworks/libswiftCoreMedia.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib arm64
+        goPlay.app/Frameworks/libswiftMetal.dylib arm64
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+    goPlay.app/Frameworks/libswiftCoreAudio.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+    goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+    goPlay.app/Framewo
+2018-03-02 03:43:14 +0000  rks/libswiftCore.dylib arm64 ->
+    
+    goPlay.app/Frameworks/libswiftDarwin.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+    goPlay.app/Frameworks/libswiftDispatch.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+    goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+    goPlay.app/Frameworks/libswiftMetal.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftos.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+    goPlay.app/Frameworks/libswiftFoundation.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+    goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+    goPlay.app/Frameworks/libswiftos.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+    goPlay.app/Frameworks/libswiftQuartzCore.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftMetal.dylib arm64
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+    goPlay.app/Frameworks/libswiftsimd.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+    goPlay.app/Frameworks/libswiftCoreImage.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftMetal.dylib arm64
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+    goPlay.app/Frameworks/libswiftUIKit.dylib arm64 ->
+        goPlay.app/Frameworks/libswiftCoreImage.dylib arm64
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib arm64
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+        goPlay.app/Frameworks/libswiftos.dylib arm64
+        goPlay.app/Frameworks/libswiftMetal.dylib arm64
+    goPlay.app/Frameworks/RestKit.framework/RestKit arm64 ->
+        go
+2018-03-02 03:43:14 +0000  Play.app/Frameworks/libswiftCore.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        goPlay.app/Frameworks/libswiftCoreImage.dylib arm64
+        goPlay.app/Frameworks/libswiftDarwin.dylib arm64
+        goPlay.app/Frameworks/libswiftDispatch.dylib arm64
+        goPlay.app/Frameworks/libswiftFoundation.dylib arm64
+        goPlay.app/Frameworks/libswiftMetal.dylib arm64
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib arm64
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib arm64
+        goPlay.app/Frameworks/libswiftUIKit.dylib arm64
+    goPlay.app/PlugIns/NotificationService.appex/NotificationService arm64 ->
+    
+    goPlay.app/Frameworks/libswiftAVFoundation.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCoreMedia.dylib armv7
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib armv7
+        goPlay.app/Frameworks/libswiftsimd.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib armv7
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7
+    goPlay.app/Frameworks/libswiftCoreMedia.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib armv7
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+    goPlay.app/Frameworks/libswiftCoreAudio.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+    goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+    goPlay.app/Frameworks/libswiftCore.dylib armv7 ->
+    
+    goPlay.app/Frameworks/libswiftDarwin.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+    goPlay.app/Frameworks/libswiftDispatch.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+    goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+    goPlay.app/Frameworks/libswiftMetal.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftos.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+    goPlay.app/Frameworks/libswiftFoundation.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+       
+2018-03-02 03:43:14 +0000   goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+    goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+    goPlay.app/Frameworks/libswiftos.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+    goPlay.app/Frameworks/libswiftQuartzCore.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+    goPlay.app/Frameworks/libswiftsimd.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+    goPlay.app/Frameworks/libswiftAVFoundation.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCoreMedia.dylib armv7s
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftsimd.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib armv7s
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7s
+    goPlay.app/Frameworks/libswiftCoreMedia.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib armv7s
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7s
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    goPlay.app/Frameworks/libswiftCoreAudio.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+    goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    goPlay.app/Frameworks/libswiftCore.dylib armv7s ->
+    
+    goPlay.app/Frameworks/libswiftDarwin.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+    goPlay.app/Frameworks/libswiftDispatch.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv
+2018-03-02 03:43:14 +0000  7s
+    goPlay.app/Frameworks/libswiftMetal.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftos.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    goPlay.app/Frameworks/libswiftFoundation.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+    goPlay.app/Frameworks/libswiftos.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+    goPlay.app/Frameworks/libswiftQuartzCore.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7s
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    goPlay.app/Frameworks/libswiftsimd.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+    goPlay.app/Frameworks/libswiftCoreImage.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+    goPlay.app/Frameworks/libswiftCoreImage.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7s
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    goPlay.app/Frameworks/libswiftUIKit.dylib armv7 ->
+        goPlay.app/Frameworks/libswiftCoreImage.dylib armv7
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib armv7
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+        goPlay.app/Frameworks/libswiftos.dylib armv7
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7
+    goPlay.app/Frameworks/libswiftUI
+2018-03-02 03:43:14 +0000  Validating IPA structure...
+2018-03-02 03:43:14 +0000  Kit.dylib armv7s ->
+        goPlay.app/Frameworks/libswiftCoreImage.dylib armv7s
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        goPlay.app/Frameworks/libswiftCore.dylib armv7s
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7s
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7s
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        goPlay.app/Frameworks/libswiftos.dylib armv7s
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7s
+    goPlay.app/Frameworks/RestKit.framework/RestKit armv7 ->
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreImage.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib armv7
+        goPlay.app/Frameworks/libswiftUIKit.dylib armv7
+    goPlay.app/Frameworks/SpeechToTextV1.framework/SpeechToTextV1 armv7 ->
+        goPlay.app/Frameworks/libswiftAVFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCore.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreAudio.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreImage.dylib armv7
+        goPlay.app/Frameworks/libswiftCoreMedia.dylib armv7
+        goPlay.app/Frameworks/libswiftDarwin.dylib armv7
+        goPlay.app/Frameworks/libswiftDispatch.dylib armv7
+        goPlay.app/Frameworks/libswiftFoundation.dylib armv7
+        goPlay.app/Frameworks/libswiftMetal.dylib armv7
+        goPlay.app/Frameworks/libswiftObjectiveC.dylib armv7
+        goPlay.app/Frameworks/libswiftQuartzCore.dylib armv7
+        goPlay.app/Frameworks/libswiftUIKit.dylib armv7
+        goPlay.app/Frameworks/libswiftsimd.dylib armv7
+2018-03-02 03:43:16 +0000  Compiling bitcode...
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftAVFoundation.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12677 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftAVFoundation.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCore.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12683 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCore.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreAudio.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12695 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreAudio.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreFoundation.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12699 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreFoundation.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreGraphics.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12703 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreGraphics.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreImage.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12709 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreImage.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreMedia.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12713 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftCoreMedia.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftDarwin.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12717 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftDarwin.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftDispatch.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12721 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftDispatch.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftFoundation.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12726 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftFoundation.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftMetal.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12731 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftMetal.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftObjectiveC.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12735 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftObjectiveC.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftos.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12739 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftos.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftQuartzCore.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12743 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftQuartzCore.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftsimd.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12747 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftsimd.dylib
+2018-03-02 03:43:16 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -ST /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftUIKit.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip exited with pid 12751 exit 0
+    Stdout:
+    
+    Stderr:
+        /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: changes being made to the file will invalidate the code signature in: /private/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/libswiftUIKit.dylib
+2018-03-02 03:43:16 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/RestKit.framework/RestKit /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/RestKit.framework/RestKit
+2018-03-02 03:43:17 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 12757 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-02 03:43:17 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/SpeechToTextV1.framework/SpeechToTextV1 /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/Frameworks/SpeechToTextV1.framework/SpeechToTextV1
+2018-03-02 03:43:17 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 12768 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-02 03:43:17 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/PlugIns/NotificationService.appex/NotificationService /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/ipatool20180302-11936-11drk6p/thinned/arm64/Payload/goPlay.app/PlugIns/NotificationService.appex/NotificationService
+2018-03-02 03:43:17 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 12776 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-02 03:43:18 +0000  Creating universal IPA contents for all devices
+  Creating directory /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/IDEIPAProcessor.AppThinning.QrG/universal
+  Copying goPlay.app output payload directory
+2018-03-02 03:43:18 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 0
+2018-03-02 03:43:18 +0000  ipatool JSON: {
+    alerts =     (
+                {
+            code = 2817;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 266;
+            description = "Failed to resolve rpath for RestKit: Could not resolve @executable_path for @executable_path/Frameworks from RestKit";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 266;
+            description = "Failed to resolve rpath for SpeechToTextV1: Could not resolve @executable_path for @executable_path/Frameworks from SpeechToTextV1";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+        "/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Assets.car"
+    );
+    universalIPA =     {
+        path = "/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/IDEIPAProcessor.AppThinning.QrG/universal";
+    };
+}
+2018-03-02 03:43:18 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2018-03-02 03:43:18 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-03-02 03:43:18 +0000  Processing step: IDEDistributionSymbolsStep
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-02 03:43:18 +0000  Processing step: IDEDistributionAppThinningStep
+2018-03-02 03:43:18 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2018-03-02 03:43:18 +0000  Processing step: IDEDistributionODRStep
+2018-03-02 03:43:18 +0000  Processing step: IDEDistributionStripXattrsStep
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faefdf5c600 'com.ibm.watson.developer-cloud.RestKit' '<DVTFilePath:0x7faee6cc2a00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/RestKit.framework'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faeed11d910 'com.ibm.watson.developer-cloud.SpeechToTextV1' '<DVTFilePath:0x7faee10d52c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/SpeechToTextV1.framework'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faefcea59c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7faef9621870:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftAVFoundation.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faeed1bf5f0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faefeb31850:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCore.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faeed51f0f0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7faeed216b70:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreAudio.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faefc8c1470 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7faeebf418c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faee6b8d090 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faefaaca190:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faefcd945f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faee979bc00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreImage.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faeed357ff0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7faeeb9f6da0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreMedia.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faefdf1f970 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7faee2d8a1e0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDarwin.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faefdfd7cb0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faeec78adf0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDispatch.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faee8c0e770 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7faee96bc590:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftFoundation.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faee8d030d0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7faefbb1fdc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftMetal.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faedf77d310 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faee16f41c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faeed02bda0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7faee32328b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faeed405850 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7faee07e51b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftUIKit.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faee36ebad0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faee97f79a0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftos.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faee8068e00 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7faeebf8fb80:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftsimd.dylib'>'>
+2018-03-02 03:43:18 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faee954ee30 'com.egoSpace.goplay.NotificationService' '<DVTFilePath:0x7faee6033dc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/PlugIns/NotificationService.appex'>'>
+2018-03-02 03:43:18 +0000  Running /usr/bin/xattr '-crs' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app'
+2018-03-02 03:43:19 +0000  /usr/bin/xattr exited with 0
+2018-03-02 03:43:19 +0000  Processing step: IDEDistributionCodesignStep
+2018-03-02 03:43:19 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faefdf5c600 'com.ibm.watson.developer-cloud.RestKit' '<DVTFilePath:0x7faee6cc2a00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/RestKit.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7faefbe529b0>: {
+}
+2018-03-02 03:43:19 +0000  Entitlements for <IDEDistributionItem: 0x7faefdf5c600 'com.ibm.watson.developer-cloud.RestKit' '<DVTFilePath:0x7faee6cc2a00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/RestKit.framework'>'>: {
+}
+2018-03-02 03:43:19 +0000  Writing entitlements for <IDEDistributionItem: 0x7faefdf5c600 'com.ibm.watson.developer-cloud.RestKit' '<DVTFilePath:0x7faee6cc2a00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/RestKit.framework'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsVo3tti
+2018-03-02 03:43:19 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsVo3tti' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/RestKit.framework'
+2018-03-02 03:43:19 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/RestKit.framework: signed bundle with Mach-O thin (arm64) [com.ibm.watson.developer-cloud.RestKit]
+2018-03-02 03:43:19 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:19 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faeed11d910 'com.ibm.watson.developer-cloud.SpeechToTextV1' '<DVTFilePath:0x7faee10d52c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/SpeechToTextV1.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee1680a20>: {
+}
+2018-03-02 03:43:19 +0000  Entitlements for <IDEDistributionItem: 0x7faeed11d910 'com.ibm.watson.developer-cloud.SpeechToTextV1' '<DVTFilePath:0x7faee10d52c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/SpeechToTextV1.framework'>'>: {
+}
+2018-03-02 03:43:19 +0000  Writing entitlements for <IDEDistributionItem: 0x7faeed11d910 'com.ibm.watson.developer-cloud.SpeechToTextV1' '<DVTFilePath:0x7faee10d52c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/SpeechToTextV1.framework'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsioWyDw
+2018-03-02 03:43:19 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsioWyDw' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/SpeechToTextV1.framework'
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/SpeechToTextV1.framework: signed bundle with Mach-O thin (arm64) [com.ibm.watson.developer-cloud.SpeechToTextV1]
+2018-03-02 03:43:20 +0000  
+2018-03-02 03:43:20 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:20 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faefcea59c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7faef9621870:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftAVFoundation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faefb9fbbe0>: {
+}
+2018-03-02 03:43:20 +0000  Entitlements for <IDEDistributionItem: 0x7faefcea59c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7faef9621870:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftAVFoundation.dylib'>'>: {
+}
+2018-03-02 03:43:20 +0000  Writing entitlements for <IDEDistributionItem: 0x7faefcea59c0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7faef9621870:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftAVFoundation.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsJvDhcQ
+2018-03-02 03:43:20 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsJvDhcQ' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftAVFoundation.dylib'
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftAVFoundation.dylib: replacing existing signature
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftAVFoundation.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftAVFoundation]
+2018-03-02 03:43:20 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:20 +0000  
+2018-03-02 03:43:20 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faeed1bf5f0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faefeb31850:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCore.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee332d420>: {
+}
+2018-03-02 03:43:20 +0000  Entitlements for <IDEDistributionItem: 0x7faeed1bf5f0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faefeb31850:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCore.dylib'>'>: {
+}
+2018-03-02 03:43:20 +0000  Writing entitlements for <IDEDistributionItem: 0x7faeed1bf5f0 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faefeb31850:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementskmjn47
+2018-03-02 03:43:20 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementskmjn47' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCore.dylib'
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCore.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCore]
+2018-03-02 03:43:20 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:20 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faeed51f0f0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7faeed216b70:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreAudio.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee663cc50>: {
+}
+2018-03-02 03:43:20 +0000  Entitlements for <IDEDistributionItem: 0x7faeed51f0f0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7faeed216b70:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreAudio.dylib'>'>: {
+}
+2018-03-02 03:43:20 +0000  Writing entitlements for <IDEDistributionItem: 0x7faeed51f0f0 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7faeed216b70:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreAudio.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsQ7Ocsp
+2018-03-02 03:43:20 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsQ7Ocsp' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreAudio.dylib'
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreAudio.dylib: replacing existing signature
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreAudio.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreAudio]
+2018-03-02 03:43:20 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:20 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faefc8c1470 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7faeebf418c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreFoundation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee37dcad0>: {
+}
+2018-03-02 03:43:20 +0000  Entitlements for <IDEDistributionItem: 0x7faefc8c1470 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7faeebf418c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+}
+2018-03-02 03:43:20 +0000  Writing entitlements for <IDEDistributionItem: 0x7faefc8c1470 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7faeebf418c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsAAWL17
+2018-03-02 03:43:20 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsAAWL17' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreFoundation.dylib'
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2018-03-02 03:43:20 +0000  
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2018-03-02 03:43:20 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:20 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faee6b8d090 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faefaaca190:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreGraphics.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faefe8adea0>: {
+}
+2018-03-02 03:43:20 +0000  Entitlements for <IDEDistributionItem: 0x7faee6b8d090 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faefaaca190:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+}
+2018-03-02 03:43:20 +0000  Writing entitlements for <IDEDistributionItem: 0x7faee6b8d090 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faefaaca190:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementswuY9pH
+2018-03-02 03:43:20 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementswuY9pH' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreGraphics.dylib'
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2018-03-02 03:43:20 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:20 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faefcd945f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faee979bc00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreImage.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faefacf4260>: {
+}
+2018-03-02 03:43:20 +0000  Entitlements for <IDEDistributionItem: 0x7faefcd945f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faee979bc00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreImage.dylib'>'>: {
+}
+2018-03-02 03:43:20 +0000  Writing entitlements for <IDEDistributionItem: 0x7faefcd945f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faee979bc00:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsr6UUZC
+2018-03-02 03:43:20 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsr6UUZC' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreImage.dylib'
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2018-03-02 03:43:20 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreImage]
+2018-03-02 03:43:20 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:20 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faeed357ff0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7faeeb9f6da0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreMedia.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee37bd9a0>: {
+}
+2018-03-02 03:43:20 +0000  Entitlements for <IDEDistributionItem: 0x7faeed357ff0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7faeeb9f6da0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreMedia.dylib'>'>: {
+}
+2018-03-02 03:43:20 +0000  Writing entitlements for <IDEDistributionItem: 0x7faeed357ff0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7faeeb9f6da0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftCoreMedia.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsdf4P9J
+2018-03-02 03:43:20 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsdf4P9J' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreMedia.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreMedia.dylib: replacing existing signature
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftCoreMedia.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreMedia]
+2018-03-02 03:43:21 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:21 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faefdf1f970 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7faee2d8a1e0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDarwin.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee33d8c30>: {
+}
+2018-03-02 03:43:21 +0000  Entitlements for <IDEDistributionItem: 0x7faefdf1f970 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7faee2d8a1e0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDarwin.dylib'>'>: {
+}
+2018-03-02 03:43:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7faefdf1f970 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7faee2d8a1e0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsBrBLdv
+2018-03-02 03:43:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsBrBLdv' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftDarwin.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftDarwin.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftDarwin]
+2018-03-02 03:43:21 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:21 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faefdfd7cb0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faeec78adf0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDispatch.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee379df20>: {
+}
+2018-03-02 03:43:21 +0000  Entitlements for <IDEDistributionItem: 0x7faefdfd7cb0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faeec78adf0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDispatch.dylib'>'>: {
+}
+2018-03-02 03:43:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7faefdfd7cb0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faeec78adf0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlements2nyQV9
+2018-03-02 03:43:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlements2nyQV9' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftDispatch.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftDispatch.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftDispatch]
+2018-03-02 03:43:21 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:21 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faee8c0e770 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7faee96bc590:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftFoundation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee01a7500>: {
+}
+2018-03-02 03:43:21 +0000  Entitlements for <IDEDistributionItem: 0x7faee8c0e770 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7faee96bc590:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftFoundation.dylib'>'>: {
+}
+2018-03-02 03:43:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7faee8c0e770 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7faee96bc590:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsXAmjk3
+2018-03-02 03:43:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsXAmjk3' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftFoundation.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftFoundation.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftFoundation]
+2018-03-02 03:43:21 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:21 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faee8d030d0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7faefbb1fdc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftMetal.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee374b890>: {
+}
+2018-03-02 03:43:21 +0000  Entitlements for <IDEDistributionItem: 0x7faee8d030d0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7faefbb1fdc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftMetal.dylib'>'>: {
+}
+2018-03-02 03:43:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7faee8d030d0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7faefbb1fdc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementszndhtC
+2018-03-02 03:43:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementszndhtC' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftMetal.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftMetal.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftMetal]
+2018-03-02 03:43:21 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:21 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faedf77d310 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faee16f41c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftObjectiveC.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee66eeab0>: {
+}
+2018-03-02 03:43:21 +0000  Entitlements for <IDEDistributionItem: 0x7faedf77d310 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faee16f41c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
+}
+2018-03-02 03:43:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7faedf77d310 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faee16f41c0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsr40SsJ
+2018-03-02 03:43:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsr40SsJ' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftObjectiveC.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2018-03-02 03:43:21 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:21 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faeed02bda0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7faee32328b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftQuartzCore.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faefe84b040>: {
+}
+2018-03-02 03:43:21 +0000  Entitlements for <IDEDistributionItem: 0x7faeed02bda0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7faee32328b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftQuartzCore.dylib'>'>: {
+}
+2018-03-02 03:43:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7faeed02bda0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7faee32328b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlements3uu3OR
+2018-03-02 03:43:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlements3uu3OR' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftQuartzCore.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2018-03-02 03:43:21 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:21 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faeed405850 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7faee07e51b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftUIKit.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faef93545e0>: {
+}
+2018-03-02 03:43:21 +0000  Entitlements for <IDEDistributionItem: 0x7faeed405850 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7faee07e51b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftUIKit.dylib'>'>: {
+}
+2018-03-02 03:43:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7faeed405850 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7faee07e51b0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftUIKit.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementskBMDTh
+2018-03-02 03:43:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementskBMDTh' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftUIKit.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftUIKit.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftUIKit]
+2018-03-02 03:43:21 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:21 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faee36ebad0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faee97f79a0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftos.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faefdb36b30>: {
+}
+2018-03-02 03:43:21 +0000  Entitlements for <IDEDistributionItem: 0x7faee36ebad0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faee97f79a0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftos.dylib'>'>: {
+}
+2018-03-02 03:43:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7faee36ebad0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faee97f79a0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftos.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsskAV4A
+2018-03-02 03:43:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsskAV4A' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftos.dylib'
+2018-03-02 03:43:21 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftos.dylib: replacing existing signature
+2018-03-02 03:43:22 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftos.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftos]
+2018-03-02 03:43:22 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:22 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faee8068e00 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7faeebf8fb80:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftsimd.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7faefdc8a900>: {
+}
+2018-03-02 03:43:22 +0000  Entitlements for <IDEDistributionItem: 0x7faee8068e00 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7faeebf8fb80:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftsimd.dylib'>'>: {
+}
+2018-03-02 03:43:22 +0000  Writing entitlements for <IDEDistributionItem: 0x7faee8068e00 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7faeebf8fb80:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/Frameworks/libswiftsimd.dylib'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsAuFizn
+2018-03-02 03:43:22 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsAuFizn' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftsimd.dylib'
+2018-03-02 03:43:22 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftsimd.dylib: replacing existing signature
+2018-03-02 03:43:22 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/Frameworks/libswiftsimd.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftsimd]
+2018-03-02 03:43:22 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:22 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faee954ee30 'com.egoSpace.goplay.NotificationService' '<DVTFilePath:0x7faee6033dc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/PlugIns/NotificationService.appex'>'> from <IDEiCloudEntitlementsProcessor: 0x7faee13cbff0>: {
+}
+2018-03-02 03:43:22 +0000  Entitlements for <IDEDistributionItem: 0x7faee954ee30 'com.egoSpace.goplay.NotificationService' '<DVTFilePath:0x7faee6033dc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/PlugIns/NotificationService.appex'>'>: {
+    "application-identifier" = "3Z56Q5RW47.com.egoSpace.goplay.NotificationService";
+    "com.apple.developer.team-identifier" = 3Z56Q5RW47;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "3Z56Q5RW47.com.egoSpace.goplay.NotificationService"
+    );
+}
+2018-03-02 03:43:22 +0000  Writing entitlements for <IDEDistributionItem: 0x7faee954ee30 'com.egoSpace.goplay.NotificationService' '<DVTFilePath:0x7faee6033dc0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app/PlugIns/NotificationService.appex'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsUqGwcb
+2018-03-02 03:43:22 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsUqGwcb' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/PlugIns/NotificationService.appex'
+2018-03-02 03:43:22 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app/PlugIns/NotificationService.appex: signed bundle with Mach-O thin (arm64) [com.egoSpace.goplay.NotificationService]
+2018-03-02 03:43:22 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:22 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7faeec4d10b0 'com.egoSpace.goplay' '<DVTFilePath:0x7faee8a9d0f0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7faeeb9f6e10>: {
+}
+2018-03-02 03:43:22 +0000  Entitlements for <IDEDistributionItem: 0x7faeec4d10b0 'com.egoSpace.goplay' '<DVTFilePath:0x7faee8a9d0f0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app'>'>: {
+    "application-identifier" = "3Z56Q5RW47.com.egoSpace.goplay";
+    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = 3Z56Q5RW47;
+    "get-task-allow" = 0;
+}
+2018-03-02 03:43:22 +0000  Writing entitlements for <IDEDistributionItem: 0x7faeec4d10b0 'com.egoSpace.goplay' '<DVTFilePath:0x7faee8a9d0f0:'/Users/1gospace-macmini1/Library/Developer/Xcode/Archives/2018-03-02/goPlay 2018-3-2 上午11.40.xcarchive/Products/Applications/goPlay.app'>'> to: /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsz67LDa
+2018-03-02 03:43:22 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/entitlementsz67LDa' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app'
+2018-03-02 03:43:22 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app: replacing existing signature
+2018-03-02 03:43:22 +0000  /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root/Payload/goPlay.app: signed app bundle with Mach-O thin (arm64) [com.egoSpace.goplay]
+2018-03-02 03:43:22 +0000  /usr/bin/codesign exited with 0
+2018-03-02 03:43:22 +0000  Processing step: IDEDistributionStreamingZipItemStep
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-02 03:43:22 +0000  Processing step: IDEDistributionCreateIPAStep
+2018-03-02 03:43:22 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root' '/var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Packages/goPlay.ipa'
+2018-03-02 03:43:22 +0000  >>> Copying /var/folders/qy/yyjjfd2n2hx8_wqqcm2s0frh0000gn/T/XcodeDistPipeline.cB5/Root 
+2018-03-02 03:43:22 +0000  copying file ./Payload/goPlay.app/720.jpg ... 
+2018-03-02 03:43:22 +0000  54984 bytes for ./Payload/goPlay.app/720.jpg
+2018-03-02 03:43:22 +0000  copying file ./Payload/goPlay.app/_CodeSignature/CodeResources ... 
+2018-03-02 03:43:22 +0000  53592 bytes for ./Payload/goPlay.app/_CodeSignature/CodeResources
+2018-03-02 03:43:22 +0000  copying file ./Payload/goPlay.app/AlertView.nib ... 
+2018-03-02 03:43:22 +0000  3034 bytes for ./Payload/goPlay.app/AlertView.nib
+copying file ./Payload/goPlay.app/AppIcon29x29@2x.png ... 
+2018-03-02 03:43:22 +0000  20586 bytes for ./Payload/goPlay.app/AppIcon29x29@2x.png
+copying file ./Payload/goPlay.app/AppIcon29x29@3x.png ... 
+2018-03-02 03:43:22 +0000  23153 bytes for ./Payload/goPlay.app/AppIcon29x29@3x.png
+copying file ./Payload/goPlay.app/AppIcon40x40@2x.png ... 
+2018-03-02 03:43:22 +0000  22584 bytes for ./Payload/goPlay.app/AppIcon40x40@2x.png
+copying file ./Payload/goPlay.app/AppIcon40x40@3x.png ... 
+2018-03-02 03:43:22 +0000  25530 bytes for ./Payload/goPlay.app/AppIcon40x40@3x.png
+copying file ./Payload/goPlay.app/AppIcon60x60@2x.png ... 
+2018-03-02 03:43:22 +0000  25530 bytes for ./Payload/goPlay.app/AppIcon60x60@2x.png
+copying file ./Payload/goPlay.app/AppIcon60x60@3x.png ... 
+2018-03-02 03:43:22 +0000  30681 bytes for ./Payload/goPlay.app/AppIcon60x60@3x.png
+copying file ./Payload/goPlay.app/archived-expanded-entitlements.xcent ... 
+2018-03-02 03:43:22 +0000  246 bytes for ./Payload/goPlay.app/archived-expanded-entitlements.xcent
+copying file ./Payload/goPlay.app/Assets.car ... 
+2018-03-02 03:43:24 +0000  30351216 bytes for ./Payload/goPlay.app/Assets.car
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/ATableViewCell.nib ... 
+2631 bytes for ./Payload/goPlay.app/ATableViewCell.nib
+copying file ./Payload/goPlay.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-03-02 03:43:24 +0000  2257 bytes for ./Payload/goPlay.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/goPlay.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/goPlay.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/goPlay.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-03-02 03:43:24 +0000  832 bytes for ./Payload/goPlay.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/goPlay.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2018-03-02 03:43:24 +0000  1791 bytes for ./Payload/goPlay.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/goPlay.app/Base.lproj/Main.storyboardc/Info.plist ... 
+258 bytes for ./Payload/goPlay.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/goPlay.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+916 bytes for ./Payload/goPlay.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/goPlay.app/checkOrderStatusViewCell.nib ... 
+4044 bytes for ./Payload/goPlay.app/checkOrderStatusViewCell.nib
+copying file ./Payload/goPlay.app/ContactusViewController.nib ... 
+956 bytes for ./Payload/goPlay.app/ContactusViewController.nib
+copying file ./Payload/goPlay.app/embedded.mobileprovision ... 
+13173 bytes for ./Payload/goPlay.app/embedded.mobileprovision
+copying file ./Payload/goPlay.app/en.lproj/Localizable.strings ... 
+2018-03-02 03:43:24 +0000  22949 bytes for ./Payload/goPlay.app/en.lproj/Localizable.strings
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/EquipmentTableViewCell.nib ... 
+2018-03-02 03:43:24 +0000  2404 bytes for ./Payload/goPlay.app/EquipmentTableViewCell.nib
+copying file ./Payload/goPlay.app/Frameworks/libswiftAVFoundation.dylib ... 
+2018-03-02 03:43:24 +0000  125232 bytes for ./Payload/goPlay.app/Frameworks/libswiftAVFoundation.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftCore.dylib ... 
+2018-03-02 03:43:24 +0000  4605024 bytes for ./Payload/goPlay.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftCoreAudio.dylib ... 
+2018-03-02 03:43:24 +0000  83296 bytes for ./Payload/goPlay.app/Frameworks/libswiftCoreAudio.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2018-03-02 03:43:24 +0000  60896 bytes for ./Payload/goPlay.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2018-03-02 03:43:24 +0000  118160 bytes for ./Payload/goPlay.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftCoreImage.dylib ... 
+2018-03-02 03:43:24 +0000  61792 bytes for ./Payload/goPlay.app/Frameworks/libswiftCoreImage.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftCoreMedia.dylib ... 
+2018-03-02 03:43:24 +0000  66064 bytes for ./Payload/goPlay.app/Frameworks/libswiftCoreMedia.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftDarwin.dylib ... 
+2018-03-02 03:43:24 +0000  73968 bytes for ./Payload/goPlay.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftDispatch.dylib ... 
+2018-03-02 03:43:24 +0000  220768 bytes for ./Payload/goPlay.app/Frameworks/libswiftDispatch.dylib
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/Frameworks/libswiftFoundation.dylib ... 
+2018-03-02 03:43:24 +0000  1751104 bytes for ./Payload/goPlay.app/Frameworks/libswiftFoundation.dylib
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/Frameworks/libswiftMetal.dylib ... 
+2018-03-02 03:43:24 +0000  65568 bytes for ./Payload/goPlay.app/Frameworks/libswiftMetal.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftObjectiveC.dylib ... 
+2018-03-02 03:43:24 +0000  67312 bytes for ./Payload/goPlay.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftos.dylib ... 
+2018-03-02 03:43:24 +0000  65376 bytes for ./Payload/goPlay.app/Frameworks/libswiftos.dylib
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/Frameworks/libswiftQuartzCore.dylib ... 
+2018-03-02 03:43:24 +0000  63104 bytes for ./Payload/goPlay.app/Frameworks/libswiftQuartzCore.dylib
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/Frameworks/libswiftsimd.dylib ... 
+2018-03-02 03:43:24 +0000  253312 bytes for ./Payload/goPlay.app/Frameworks/libswiftsimd.dylib
+copying file ./Payload/goPlay.app/Frameworks/libswiftUIKit.dylib ... 
+2018-03-02 03:43:24 +0000  90640 bytes for ./Payload/goPlay.app/Frameworks/libswiftUIKit.dylib
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/Frameworks/RestKit.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Payload/goPlay.app/Frameworks/RestKit.framework/_CodeSignature/CodeResources
+copying file ./Payload/goPlay.app/Frameworks/RestKit.framework/Info.plist ... 
+750 bytes for ./Payload/goPlay.app/Frameworks/RestKit.framework/Info.plist
+copying file ./Payload/goPlay.app/Frameworks/RestKit.framework/RestKit ... 
+2018-03-02 03:43:24 +0000  326832 bytes for ./Payload/goPlay.app/Frameworks/RestKit.framework/RestKit
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/Frameworks/SpeechToTextV1.framework/_CodeSignature/CodeResources ... 
+2018-03-02 03:43:24 +0000  2202 bytes for ./Payload/goPlay.app/Frameworks/SpeechToTextV1.framework/_CodeSignature/CodeResources
+copying file ./Payload/goPlay.app/Frameworks/SpeechToTextV1.framework/Info.plist ... 
+762 bytes for ./Payload/goPlay.app/Frameworks/SpeechToTextV1.framework/Info.plist
+copying file ./Payload/goPlay.app/Frameworks/SpeechToTextV1.framework/SpeechToTextV1 ... 
+2018-03-02 03:43:24 +0000  1002576 bytes for ./Payload/goPlay.app/Frameworks/SpeechToTextV1.framework/SpeechToTextV1
+2018-03-02 03:43:24 +0000  copying file ./Payload/goPlay.app/goPlay ... 
+2018-03-02 03:43:25 +0000  8254256 bytes for ./Payload/goPlay.app/goPlay
+copying file ./Payload/goPlay.app/GoplayUpdateViewController.nib ... 
+2018-03-02 03:43:25 +0000  5733 bytes for ./Payload/goPlay.app/GoplayUpdateViewController.nib
+copying file ./Payload/goPlay.app/Info.plist ... 
+2018-03-02 03:43:25 +0000  11780 bytes for ./Payload/goPlay.app/Info.plist
+copying file ./Payload/goPlay.app/LaunchImage-568h@2x.png ... 
+2018-03-02 03:43:25 +0000  235074 bytes for ./Payload/goPlay.app/LaunchImage-568h@2x.png
+copying file ./Payload/goPlay.app/LaunchImage-700-568h@2x.png ... 
+2018-03-02 03:43:25 +0000  235074 bytes for ./Payload/goPlay.app/LaunchImage-700-568h@2x.png
+copying file ./Payload/goPlay.app/LaunchImage-700@2x.png ... 
+2018-03-02 03:43:25 +0000  236188 bytes for ./Payload/goPlay.app/LaunchImage-700@2x.png
+2018-03-02 03:43:25 +0000  copying file ./Payload/goPlay.app/LaunchImage-800-667h@2x.png ... 
+2018-03-02 03:43:25 +0000  310501 bytes for ./Payload/goPlay.app/LaunchImage-800-667h@2x.png
+copying file ./Payload/goPlay.app/LaunchImage-800-Portrait-736h@3x.png ... 
+2018-03-02 03:43:25 +0000  733539 bytes for ./Payload/goPlay.app/LaunchImage-800-Portrait-736h@3x.png
+copying file ./Payload/goPlay.app/LaunchImage.png ... 
+2018-03-02 03:43:25 +0000  84921 bytes for ./Payload/goPlay.app/LaunchImage.png
+copying file ./Payload/goPlay.app/LKNotification.gif ... 
+2018-03-02 03:43:25 +0000  409303 bytes for ./Payload/goPlay.app/LKNotification.gif
+copying file ./Payload/goPlay.app/LoadView.nib ... 
+2018-03-02 03:43:25 +0000  3246 bytes for ./Payload/goPlay.app/LoadView.nib
+copying file ./Payload/goPlay.app/loginViewController.nib ... 
+2018-03-02 03:43:25 +0000  4182 bytes for ./Payload/goPlay.app/loginViewController.nib
+copying file ./Payload/goPlay.app/MJRefresh.bundle/arrow@2x.png ... 
+2018-03-02 03:43:25 +0000  1033 bytes for ./Payload/goPlay.app/MJRefresh.bundle/arrow@2x.png
+copying file ./Payload/goPlay.app/MJRefresh.bundle/en.lproj/Localizable.strings ... 
+1372 bytes for ./Payload/goPlay.app/MJRefresh.bundle/en.lproj/Localizable.strings
+copying file ./Payload/goPlay.app/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings ... 
+2018-03-02 03:43:25 +0000  1194 bytes for ./Payload/goPlay.app/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings
+copying file ./Payload/goPlay.app/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings ... 
+2018-03-02 03:43:25 +0000  773 bytes for ./Payload/goPlay.app/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings
+copying file ./Payload/goPlay.app/NetaddressList.plist ... 
+116 bytes for ./Payload/goPlay.app/NetaddressList.plist
+copying file ./Payload/goPlay.app/NewShowCollectionViewCell.nib ... 
+2018-03-02 03:43:25 +0000  8463 bytes for ./Payload/goPlay.app/NewShowCollectionViewCell.nib
+copying file ./Payload/goPlay.app/PkgInfo ... 
+2018-03-02 03:43:25 +0000  8 bytes for ./Payload/goPlay.app/PkgInfo
+copying file ./Payload/goPlay.app/PlugIns/NotificationService.appex/_CodeSignature/CodeResources ... 
+2018-03-02 03:43:25 +0000  2846 bytes for ./Payload/goPlay.app/PlugIns/NotificationService.appex/_CodeSignature/CodeResources
+copying file ./Payload/goPlay.app/PlugIns/NotificationService.appex/archived-expanded-entitlements.xcent ... 
+416 bytes for ./Payload/goPlay.app/PlugIns/NotificationService.appex/archived-expanded-entitlements.xcent
+copying file ./Payload/goPlay.app/PlugIns/NotificationService.appex/embedded.mobileprovision ... 
+2018-03-02 03:43:25 +0000  12726 bytes for ./Payload/goPlay.app/PlugIns/NotificationService.appex/embedded.mobileprovision
+copying file ./Payload/goPlay.app/PlugIns/NotificationService.appex/Info.plist ... 
+2018-03-02 03:43:25 +0000  930 bytes for ./Payload/goPlay.app/PlugIns/NotificationService.appex/Info.plist
+copying file ./Payload/goPlay.app/PlugIns/NotificationService.appex/NotificationService ... 
+2018-03-02 03:43:25 +0000  61680 bytes for ./Payload/goPlay.app/PlugIns/NotificationService.appex/NotificationService
+2018-03-02 03:43:25 +0000  copying file ./Payload/goPlay.app/PreviewAudioVC.nib ... 
+974 bytes for ./Payload/goPlay.app/PreviewAudioVC.nib
+copying file ./Payload/goPlay.app/PreviewViewController.nib ... 
+2018-03-02 03:43:25 +0000  974 bytes for ./Payload/goPlay.app/PreviewViewController.nib
+copying file ./Payload/goPlay.app/ProgressView.nib ... 
+2018-03-02 03:43:25 +0000  5814 bytes for ./Payload/goPlay.app/ProgressView.nib
+copying file ./Payload/goPlay.app/prooProgressView.nib ... 
+2018-03-02 03:43:25 +0000  2684 bytes for ./Payload/goPlay.app/prooProgressView.nib
+copying file ./Payload/goPlay.app/README.txt ... 
+2018-03-02 03:43:25 +0000  2001 bytes for ./Payload/goPlay.app/README.txt
+copying file ./Payload/goPlay.app/RecordingCell.nib ... 
+2018-03-02 03:43:25 +0000  7153 bytes for ./Payload/goPlay.app/RecordingCell.nib
+copying file ./Payload/goPlay.app/RecordingVC.nib ... 
+2018-03-02 03:43:25 +0000  6506 bytes for ./Payload/goPlay.app/RecordingVC.nib
+2018-03-02 03:43:25 +0000  copying file ./Payload/goPlay.app/RegistViewController.nib ... 
+2018-03-02 03:43:25 +0000  7608 bytes for ./Payload/goPlay.app/RegistViewController.nib
+copying file ./Payload/goPlay.app/SearchAlertView.nib ... 
+2018-03-02 03:43:25 +0000  3847 bytes for ./Payload/goPlay.app/SearchAlertView.nib
+2018-03-02 03:43:25 +0000  copying file ./Payload/goPlay.app/selectSexView.nib ... 
+2018-03-02 03:43:25 +0000  4324 bytes for ./Payload/goPlay.app/selectSexView.nib
+copying file ./Payload/goPlay.app/slider-default-handle-highlighted.png ... 
+1057 bytes for ./Payload/goPlay.app/slider-default-handle-highlighted.png
+copying file ./Payload/goPlay.app/slider-default-handle-highlighted@2x.png ... 
+2018-03-02 03:43:25 +0000  1907 bytes for ./Payload/goPlay.app/slider-default-handle-highlighted@2x.png
+copying file ./Payload/goPlay.app/slider-default-handle.png ... 
+2018-03-02 03:43:25 +0000  3590 bytes for ./Payload/goPlay.app/slider-default-handle.png
+copying file ./Payload/goPlay.app/slider-default-handle@2x.png ... 
+2018-03-02 03:43:25 +0000  4130 bytes for ./Payload/goPlay.app/slider-default-handle@2x.png
+copying file ./Payload/goPlay.app/tail_H1280x720.mp4 ... 
+2018-03-02 03:43:25 +0000  418114 bytes for ./Payload/goPlay.app/tail_H1280x720.mp4
+copying file ./Payload/goPlay.app/tail_H1920x1080.mp4 ... 
+2018-03-02 03:43:25 +0000  640492 bytes for ./Payload/goPlay.app/tail_H1920x1080.mp4
+copying file ./Payload/goPlay.app/tail_H640x480.mp4 ... 
+2018-03-02 03:43:25 +0000  201481 bytes for ./Payload/goPlay.app/tail_H640x480.mp4
+copying file ./Payload/goPlay.app/tail_V1280x720.mp4 ... 
+2018-03-02 03:43:25 +0000  443497 bytes for ./Payload/goPlay.app/tail_V1280x720.mp4
+copying file ./Payload/goPlay.app/tail_V1920x1080.mp4 ... 
+2018-03-02 03:43:25 +0000  664018 bytes for ./Payload/goPlay.app/tail_V1920x1080.mp4
+copying file ./Payload/goPlay.app/tail_V640x480.mp4 ... 
+2018-03-02 03:43:25 +0000  262701 bytes for ./Payload/goPlay.app/tail_V640x480.mp4
+copying file ./Payload/goPlay.app/TakePhotoViewController.nib ... 
+2018-03-02 03:43:25 +0000  7626 bytes for ./Payload/goPlay.app/TakePhotoViewController.nib
+2018-03-02 03:43:25 +0000  copying file ./Payload/goPlay.app/UMSocialSDKPromptResources.bundle/en.lproj/UMSocialPromptLocalizable.strings ... 
+2018-03-02 03:43:25 +0000  8304 bytes for ./Payload/goPlay.app/UMSocialSDKPromptResources.bundle/en.lproj/UMSocialPromptLocalizable.strings
+copying file ./Payload/goPlay.app/UMSocialSDKPromptResources.bundle/zh-Hans.lproj/UMSocialPromptLocalizable.strings ... 
+2018-03-02 03:43:25 +0000  8304 bytes for ./Payload/goPlay.app/UMSocialSDKPromptResources.bundle/zh-Hans.lproj/UMSocialPromptLocalizable.strings
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png ... 
+2018-03-02 03:43:25 +0000  134 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png ... 
+891 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png ... 
+2018-03-02 03:43:25 +0000  500 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png ... 
+1624 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png ... 
+2018-03-02 03:43:25 +0000  1562 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png ... 
+2018-03-02 03:43:25 +0000  1771 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png ... 
+2062 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png
+2018-03-02 03:43:25 +0000  copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings ... 
+2018-03-02 03:43:25 +0000  6503 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png ... 
+2018-03-02 03:43:25 +0000  1370 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png ... 
+2018-03-02 03:43:25 +0000  4203 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dingding.png ... 
+1390 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dingding.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png ... 
+2018-03-02 03:43:25 +0000  813 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dropbox.png ... 
+1692 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dropbox.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png ... 
+2018-03-02 03:43:25 +0000  1211 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_evernote.png ... 
+2018-03-02 03:43:25 +0000  1267 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_evernote.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png ... 
+1468 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebookmessenger.png ... 
+2018-03-02 03:43:25 +0000  1749 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebookmessenger.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png ... 
+979 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_googleplus.png ... 
+2018-03-02 03:43:25 +0000  2320 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_googleplus.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_instagram.png ... 
+2018-03-02 03:43:25 +0000  1952 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_instagram.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png ... 
+2018-03-02 03:43:25 +0000  1893 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png ... 
+2018-03-02 03:43:25 +0000  1720 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png ... 
+1637 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png ... 
+2018-03-02 03:43:25 +0000  2391 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png ... 
+1139 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png
+2018-03-02 03:43:25 +0000  copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png ... 
+1987 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pocket.png ... 
+2018-03-02 03:43:25 +0000  1405 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pocket.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png ... 
+2018-03-02 03:43:25 +0000  3505 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png ... 
+2083 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png ... 
+2018-03-02 03:43:25 +0000  1529 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png ... 
+2018-03-02 03:43:25 +0000  2581 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png ... 
+1127 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png ... 
+2018-03-02 03:43:25 +0000  1943 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tim.png ... 
+2018-03-02 03:43:25 +0000  2597 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tim.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png ... 
+2018-03-02 03:43:25 +0000  1564 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png ... 
+1442 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_vkontakte.png ... 
+2018-03-02 03:43:25 +0000  1867 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_vkontakte.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png ... 
+2018-03-02 03:43:25 +0000  1628 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png ... 
+1179 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png ... 
+2018-03-02 03:43:25 +0000  1506 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_whatsapp.png ... 
+1832 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_whatsapp.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png ... 
+2018-03-02 03:43:25 +0000  4145 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png ... 
+1833 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png ... 
+2199 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_youdaonote.png ... 
+2018-03-02 03:43:25 +0000  1158 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_youdaonote.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialWaterMark/umsocial_defaultwatermark.png ... 
+2018-03-02 03:43:25 +0000  3003 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/UMSocialWaterMark/umsocial_defaultwatermark.png
+copying file ./Payload/goPlay.app/UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings ... 
+2018-03-02 03:43:25 +0000  6685 bytes for ./Payload/goPlay.app/UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings
+copying file ./Payload/goPlay.app/UpdateOpenWifiViewController.nib ... 
+2018-03-02 03:43:25 +0000  5224 bytes for ./Payload/goPlay.app/UpdateOpenWifiViewController.nib
+copying file ./Payload/goPlay.app/UpdateView.nib ... 
+2018-03-02 03:43:25 +0000  4903 bytes for ./Payload/goPlay.app/UpdateView.nib
+copying file ./Payload/goPlay.app/UploadTipVie.nib ... 
+2018-03-02 03:43:25 +0000  4118 bytes for ./Payload/goPlay.app/UploadTipVie.nib
+copying file ./Payload/goPlay.app/WifiReminderView.nib ... 
+2018-03-02 03:43:25 +0000  3398 bytes for ./Payload/goPlay.app/WifiReminderView.nib
+copying file ./Payload/goPlay.app/XFVideoPickerCell.nib ... 
+2018-03-02 03:43:25 +0000  3319 bytes for ./Payload/goPlay.app/XFVideoPickerCell.nib
+copying file ./Payload/goPlay.app/YGCollectionHeaderView.nib ... 
+2018-03-02 03:43:25 +0000  4212 bytes for ./Payload/goPlay.app/YGCollectionHeaderView.nib
+copying file ./Payload/goPlay.app/zh-Hans.lproj/Localizable.strings ... 
+2018-03-02 03:43:25 +0000  17184 bytes for ./Payload/goPlay.app/zh-Hans.lproj/Localizable.strings
+copying file ./Payload/goPlay.app/ZYInputAlertView.nib ... 
+2018-03-02 03:43:25 +0000  3819 bytes for ./Payload/goPlay.app/ZYInputAlertView.nib
+copying file ./Payload/goPlay.app/测试.txt ... 
+2018-03-02 03:43:25 +0000  18 bytes for ./Payload/goPlay.app/测试.txt
+2018-03-02 03:43:25 +0000  /usr/bin/ditto exited with 0
+2018-03-02 03:43:25 +0000  Processing step: IDEDistributionCreateManifestStep

@@ -7,14 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED304D5C202AFE0A00D7E0E2 /* chooseRecordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED304D5B202AFE0A00D7E0E2 /* chooseRecordViewController.m */; };
+		ED304D5F202B001600D7E0E2 /* avassetWriterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED304D5E202B001600D7E0E2 /* avassetWriterViewController.m */; };
 		ED686C812015CB2C00F8919D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ED686C802015CB2C00F8919D /* AppDelegate.m */; };
-		ED686C842015CB2C00F8919D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED686C832015CB2C00F8919D /* ViewController.m */; };
+		ED686C842015CB2C00F8919D /* MovieFileOutputViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED686C832015CB2C00F8919D /* MovieFileOutputViewController.m */; };
 		ED686C872015CB2C00F8919D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED686C852015CB2C00F8919D /* Main.storyboard */; };
 		ED686C892015CB2C00F8919D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED686C882015CB2C00F8919D /* Assets.xcassets */; };
 		ED686C8C2015CB2C00F8919D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED686C8A2015CB2C00F8919D /* LaunchScreen.storyboard */; };
 		ED686C8F2015CB2C00F8919D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ED686C8E2015CB2C00F8919D /* main.m */; };
 		ED686C992015CB2C00F8919D /* ______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = ED686C982015CB2C00F8919D /* ______Tests.m */; };
 		ED686CA42015CB2C00F8919D /* ______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = ED686CA32015CB2C00F8919D /* ______UITests.m */; };
+		ED686CB32015CBAD00F8919D /* FileOutManager.m in Sources */ = {isa = PBXBuildFile; fileRef = ED686CB22015CBAD00F8919D /* FileOutManager.m */; };
+		ED9034A32047AE81009DBC43 /* assetWriterView.m in Sources */ = {isa = PBXBuildFile; fileRef = ED9034A22047AE81009DBC43 /* assetWriterView.m */; };
+		ED9034A92047AE99009DBC43 /* assetWriterModel.m in Sources */ = {isa = PBXBuildFile; fileRef = ED9034A82047AE99009DBC43 /* assetWriterModel.m */; };
+		ED9412A5202D8C060087E772 /* VideoListController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED9412A4202D8C060087E772 /* VideoListController.m */; };
+		EDA122652071F0EE003219C4 /* assetWriterEncode.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA122642071F0EE003219C4 /* assetWriterEncode.m */; };
+		EDD4F2EF202BEEA400A70508 /* FileOutModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EDD4F2EE202BEEA400A70508 /* FileOutModel.m */; };
+		EDD4F2F2202BFB8E00A70508 /* fileOutView.m in Sources */ = {isa = PBXBuildFile; fileRef = EDD4F2F1202BFB8E00A70508 /* fileOutView.m */; };
+		EDD4F2F5202BFDEE00A70508 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EDD4F2F4202BFDEE00A70508 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,11 +45,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		ED304D5A202AFE0A00D7E0E2 /* chooseRecordViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = chooseRecordViewController.h; sourceTree = "<group>"; };
+		ED304D5B202AFE0A00D7E0E2 /* chooseRecordViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = chooseRecordViewController.m; sourceTree = "<group>"; };
+		ED304D5D202B001600D7E0E2 /* avassetWriterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = avassetWriterViewController.h; sourceTree = "<group>"; };
+		ED304D5E202B001600D7E0E2 /* avassetWriterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = avassetWriterViewController.m; sourceTree = "<group>"; };
 		ED686C7C2015CB2C00F8919D /* 视频录制相关.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "视频录制相关.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED686C7F2015CB2C00F8919D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		ED686C802015CB2C00F8919D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		ED686C822015CB2C00F8919D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		ED686C832015CB2C00F8919D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		ED686C822015CB2C00F8919D /* MovieFileOutputViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MovieFileOutputViewController.h; sourceTree = "<group>"; };
+		ED686C832015CB2C00F8919D /* MovieFileOutputViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MovieFileOutputViewController.m; sourceTree = "<group>"; };
 		ED686C862015CB2C00F8919D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		ED686C882015CB2C00F8919D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED686C8B2015CB2C00F8919D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +65,22 @@
 		ED686C9F2015CB2C00F8919D /* 视频录制相关UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "视频录制相关UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED686CA32015CB2C00F8919D /* ______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "______UITests.m"; sourceTree = "<group>"; };
 		ED686CA52015CB2C00F8919D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED686CB12015CBAD00F8919D /* FileOutManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FileOutManager.h; sourceTree = "<group>"; };
+		ED686CB22015CBAD00F8919D /* FileOutManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FileOutManager.m; sourceTree = "<group>"; };
+		ED9034A12047AE81009DBC43 /* assetWriterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = assetWriterView.h; sourceTree = "<group>"; };
+		ED9034A22047AE81009DBC43 /* assetWriterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = assetWriterView.m; sourceTree = "<group>"; };
+		ED9034A72047AE99009DBC43 /* assetWriterModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = assetWriterModel.h; sourceTree = "<group>"; };
+		ED9034A82047AE99009DBC43 /* assetWriterModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = assetWriterModel.m; sourceTree = "<group>"; };
+		ED9412A3202D8C060087E772 /* VideoListController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VideoListController.h; sourceTree = "<group>"; };
+		ED9412A4202D8C060087E772 /* VideoListController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VideoListController.m; sourceTree = "<group>"; };
+		EDA122632071F0EE003219C4 /* assetWriterEncode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = assetWriterEncode.h; sourceTree = "<group>"; };
+		EDA122642071F0EE003219C4 /* assetWriterEncode.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = assetWriterEncode.m; sourceTree = "<group>"; };
+		EDD4F2ED202BEEA400A70508 /* FileOutModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FileOutModel.h; sourceTree = "<group>"; };
+		EDD4F2EE202BEEA400A70508 /* FileOutModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FileOutModel.m; sourceTree = "<group>"; };
+		EDD4F2F0202BFB8E00A70508 /* fileOutView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = fileOutView.h; sourceTree = "<group>"; };
+		EDD4F2F1202BFB8E00A70508 /* fileOutView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = fileOutView.m; sourceTree = "<group>"; };
+		EDD4F2F3202BFDEE00A70508 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		EDD4F2F4202BFDEE00A70508 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,8 +133,13 @@
 			children = (
 				ED686C7F2015CB2C00F8919D /* AppDelegate.h */,
 				ED686C802015CB2C00F8919D /* AppDelegate.m */,
-				ED686C822015CB2C00F8919D /* ViewController.h */,
-				ED686C832015CB2C00F8919D /* ViewController.m */,
+				EDD4F2F3202BFDEE00A70508 /* ViewController.h */,
+				EDD4F2F4202BFDEE00A70508 /* ViewController.m */,
+				ED304D5A202AFE0A00D7E0E2 /* chooseRecordViewController.h */,
+				ED304D5B202AFE0A00D7E0E2 /* chooseRecordViewController.m */,
+				ED9412A2202D8BF30087E772 /* videoList */,
+				EDD4F2EC202BED8E00A70508 /* AVAssetWriter */,
+				EDD4F2EB202BED7C00A70508 /* FileOut */,
 				ED686C852015CB2C00F8919D /* Main.storyboard */,
 				ED686C882015CB2C00F8919D /* Assets.xcassets */,
 				ED686C8A2015CB2C00F8919D /* LaunchScreen.storyboard */,
@@ -130,6 +165,45 @@
 				ED686CA52015CB2C00F8919D /* Info.plist */,
 			);
 			path = "视频录制相关UITests";
+			sourceTree = "<group>";
+		};
+		ED9412A2202D8BF30087E772 /* videoList */ = {
+			isa = PBXGroup;
+			children = (
+				ED9412A3202D8C060087E772 /* VideoListController.h */,
+				ED9412A4202D8C060087E772 /* VideoListController.m */,
+			);
+			path = videoList;
+			sourceTree = "<group>";
+		};
+		EDD4F2EB202BED7C00A70508 /* FileOut */ = {
+			isa = PBXGroup;
+			children = (
+				ED686C822015CB2C00F8919D /* MovieFileOutputViewController.h */,
+				ED686C832015CB2C00F8919D /* MovieFileOutputViewController.m */,
+				EDD4F2F0202BFB8E00A70508 /* fileOutView.h */,
+				EDD4F2F1202BFB8E00A70508 /* fileOutView.m */,
+				ED686CB12015CBAD00F8919D /* FileOutManager.h */,
+				ED686CB22015CBAD00F8919D /* FileOutManager.m */,
+				EDD4F2ED202BEEA400A70508 /* FileOutModel.h */,
+				EDD4F2EE202BEEA400A70508 /* FileOutModel.m */,
+			);
+			path = FileOut;
+			sourceTree = "<group>";
+		};
+		EDD4F2EC202BED8E00A70508 /* AVAssetWriter */ = {
+			isa = PBXGroup;
+			children = (
+				ED304D5D202B001600D7E0E2 /* avassetWriterViewController.h */,
+				ED304D5E202B001600D7E0E2 /* avassetWriterViewController.m */,
+				ED9034A12047AE81009DBC43 /* assetWriterView.h */,
+				ED9034A22047AE81009DBC43 /* assetWriterView.m */,
+				ED9034A72047AE99009DBC43 /* assetWriterModel.h */,
+				ED9034A82047AE99009DBC43 /* assetWriterModel.m */,
+				EDA122632071F0EE003219C4 /* assetWriterEncode.h */,
+				EDA122642071F0EE003219C4 /* assetWriterEncode.m */,
+			);
+			path = AVAssetWriter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -265,9 +339,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED686C842015CB2C00F8919D /* ViewController.m in Sources */,
+				EDD4F2F5202BFDEE00A70508 /* ViewController.m in Sources */,
+				ED9034A92047AE99009DBC43 /* assetWriterModel.m in Sources */,
+				ED304D5F202B001600D7E0E2 /* avassetWriterViewController.m in Sources */,
+				ED686C842015CB2C00F8919D /* MovieFileOutputViewController.m in Sources */,
+				ED9034A32047AE81009DBC43 /* assetWriterView.m in Sources */,
+				EDD4F2EF202BEEA400A70508 /* FileOutModel.m in Sources */,
+				EDD4F2F2202BFB8E00A70508 /* fileOutView.m in Sources */,
 				ED686C8F2015CB2C00F8919D /* main.m in Sources */,
+				ED304D5C202AFE0A00D7E0E2 /* chooseRecordViewController.m in Sources */,
+				ED686CB32015CBAD00F8919D /* FileOutManager.m in Sources */,
 				ED686C812015CB2C00F8919D /* AppDelegate.m in Sources */,
+				ED9412A5202D8C060087E772 /* VideoListController.m in Sources */,
+				EDA122652071F0EE003219C4 /* assetWriterEncode.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,12 +515,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 724VDH966F;
+				DEVELOPMENT_TEAM = 3Z56Q5RW47;
 				INFOPLIST_FILE = "视频录制相关/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "-Go.------";
+				PRODUCT_BUNDLE_IDENTIFIER = ssasdasd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -445,12 +530,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 724VDH966F;
+				DEVELOPMENT_TEAM = 3Z56Q5RW47;
 				INFOPLIST_FILE = "视频录制相关/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "-Go.------";
+				PRODUCT_BUNDLE_IDENTIFIER = ssasdasd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

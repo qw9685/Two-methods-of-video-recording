@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>goPlay.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC</string>
+				<key>dateExpires</key>
+				<string>2019/1/30</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC</string>
+						<key>dateExpires</key>
+						<string>2019/1/30</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>RestKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3Z56Q5RW47</string>
+						<key>name</key>
+						<string>Yigo Space (Beijing) Science &amp; Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC</string>
+						<key>dateExpires</key>
+						<string>2019/1/30</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SpeechToTextV1.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3Z56Q5RW47</string>
+						<key>name</key>
+						<string>Yigo Space (Beijing) Science &amp; Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>795D6AAB1CD3A3BBBB00D61D050B33BA93B4EDAC</string>
+						<key>dateExpires</key>
+						<string>2019/1/30</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>3Z56Q5RW47.com.egoSpace.goplay.NotificationService</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>3Z56Q5RW47</string>
+						<key>get-task-allow</key>
+						<false/>
+						<key>keychain-access-groups</key>
+						<array>
+							<string>3Z56Q5RW47.com.egoSpace.goplay.NotificationService</string>
+						</array>
+					</dict>
+					<key>name</key>
+					<string>NotificationService.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>6eee47ad-6f48-4968-a4ca-f25baf5a1ae5</string>
+						<key>name</key>
+						<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3Z56Q5RW47</string>
+						<key>name</key>
+						<string>Yigo Space (Beijing) Science &amp; Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3Z56Q5RW47.com.egoSpace.goplay</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3Z56Q5RW47</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>goPlay.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>54dd89e2-2409-48d1-98b1-79da76455eb6</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.egoSpace.goplay</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3Z56Q5RW47</string>
+				<key>name</key>
+				<string>Yigo Space (Beijing) Science &amp; Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
